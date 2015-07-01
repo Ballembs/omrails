@@ -1,3 +1,3 @@
 # Sample app
 
-Learning ruby on rails by [Bala subrahmanyam]
+Learning ruby on rails by [Bala subrahmanyam]	
